@@ -1,0 +1,8 @@
+{
+  "name": "Hospital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "be3a8543"
+}
